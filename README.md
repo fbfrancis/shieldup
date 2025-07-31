@@ -81,6 +81,7 @@ Project Structure
 
 lib/
 │
+
 ├── main.dart                 Entry point of the app  
 ├── screens/                 Main app screens (Dashboard, Profile, etc.)  
 ├── providers/               App-wide state management (Theme, User)  
