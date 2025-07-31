@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# my_new_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 ShieldUp: Cybersecurity Learning App
 
 ShieldUp is a mobile learning platform developed using Flutter and Firebase. The app is designed to teach users the fundamentals of cybersecurity through interactive modules, quizzes, real-time progress tracking, and an AI-powered tutoring system. ShieldUp integrates modern UI design, structured learning, and practical tools to enhance user engagement and retention.
