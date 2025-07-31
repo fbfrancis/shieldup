@@ -80,7 +80,6 @@ Installation
 Project Structure
 
 lib/
-│
 
 ├── main.dart                 Entry point of the app  
 ├── screens/                 Main app screens (Dashboard, Profile, etc.)  
