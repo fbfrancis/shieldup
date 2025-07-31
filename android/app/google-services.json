@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620100774107",
+    "project_id": "shieldup-ffb307",
+    "storage_bucket": "shieldup-ffb307.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620100774107:android:3acfe141d337bf85acc4fe",
+        "android_client_info": {
+          "package_name": "com.francis.shieldup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ79r6A_bzXsLb6aDcnaW5pOkXoZ_xEIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
